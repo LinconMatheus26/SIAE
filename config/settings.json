@@ -1,0 +1,6 @@
+{
+    "pasta_saida": "output",
+    "abrir_pasta_apos_processamento": false,
+    "gerar_consolidado": true,
+    "normalizar_texto": true
+}
